@@ -1,0 +1,19 @@
+.titlecolor{
+    color: #708238
+}
+
+em {
+    font-style: normal;
+}
+
+.buttonStyle{
+    color: #f69314;
+    border: none;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    outline:none;
+    &:hover{
+        color: #b76a07;
+    }
+}
